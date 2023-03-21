@@ -29,7 +29,7 @@ database = 하나의 컴퓨터안에 저장될 수 없는 큰 데이터를 다�
 
 Oracle Database SE = 전역데이터
 
-![image](https://user-images.githubusercontent.com/43203949/226564762-9bd35040-a408-4c23-b08e-1860c0d2dac2.png)
+![image](https://user-images.githubusercontent.com/43203949/226564806-809b91a6-036a-47e1-858f-5faf441c7432.png)
 
 ### db 명령어 모음집
 
