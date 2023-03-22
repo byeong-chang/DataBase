@@ -62,4 +62,5 @@ GRANT CONNECT,DBA TO dba_user;
 REVOKE DBA FROM web_user;
 --CREATE,ALTER,DROP
 
-### 데이터에 이상이 발생하면 데이터 무결성이 지켜질 수 없음.
+- **데이터에 이상이 발생하면 데이터 무결성이 지켜질 수 없음.**
+- **Structed 된 정보는(스키마 때문에 발생) 데이터를 안정화 시키지만 여러 데이터베이스에 나누어 저장되어 있던 데이터를 합치는 빅데이터의 경우 Structed된 정보가 좋지 않다. 그래서 NoSQL 같은 Structed 되지 않은 DBMS이 사용된다.**
